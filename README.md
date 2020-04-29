@@ -2,7 +2,7 @@
 
 This sample is for understanding launch modes in android.
 
-Simply checkout this project in your android studio.
+Simply checkout this project in your android studio and follow the below steps.
 
 1. Change the launch mode in Manifest file
 <activity android:launchMode = [“standard” | “singleTop” | “singleTask” | “singleInstance”] ../>
